@@ -22,6 +22,13 @@ Note that rank of a tensor is somewhat different to rank of matrix.
 [Keras Input Shape](https://stackoverflow.com/questions/44747343/keras-input-explanation-input-shape-units-batch-size-dim-etc)
 
 
+### Classification
+[Categorical Cross Entropy - Softmax, Cross Entorpy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
+[Sparse Categorical Entropy](https://jovianlin.io/cat-crossentropy-vs-sparse-cat-crossentropy/)
+Sparse CE - label encoding
+normal CE - one hot encoding
+
 ### CNN
 
 [Max Pooling Layer](https://www.google.com/search?q=what+is+a+max+pooling+layer&client=firefox-b-d&sxsrf=ALeKk00LiduRNdZZtcXcB0sKN136I1ztZQ:1585152342155&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGj5PSgLboAhXCXisKHRm3AvEQ_AUoAXoECA0QAw&biw=1680&bih=936#imgrc=fVc385NgNaXtYM)
